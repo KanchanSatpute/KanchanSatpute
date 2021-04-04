@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I'm Kanchan 👋
 :woman: I work as a Data Scientist at Bentley Systems where I build tools to solve problems in the Mobility Analytics space.<br>
 :chart_with_upwards_trend: I am currently learning about Deep learning techniques, Model Automation and Deployment.<br>
 👯 Would love to collaborate on fun Data Science projects.<br>
