@@ -1,5 +1,5 @@
 ### Hi there 👋
-:woman: I am currently working as a Data Scientist where I build tools to solve problems in the Mobility Analytics space.<br>
+:woman: I am currently working as a Data Scientist at Bentley Systems where I build tools to solve problems in the Mobility Analytics space.<br>
 📫 How to reach me: kanchansatpute026@gmail.com
 <!--
 **KanchanSatpute/KanchanSatpute** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
