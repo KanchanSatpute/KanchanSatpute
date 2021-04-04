@@ -1,5 +1,7 @@
 ### Hi there 👋
-:woman: I am currently working as a Data Scientist at Bentley Systems where I build tools to solve problems in the Mobility Analytics space.<br>
+:woman: I work as a Data Scientist at Bentley Systems where I build tools to solve problems in the Mobility Analytics space.<br>
+:chart_with_upwards_trend: I am currently learning about Deep learning techniques, Model Automation and Deployment.<br>
+👯 Would love to collaborate on fun Data Science projects.<br>
 📫 How to reach me: kanchansatpute026@gmail.com
 <!--
 **KanchanSatpute/KanchanSatpute** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
