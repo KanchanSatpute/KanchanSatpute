@@ -1,6 +1,6 @@
 ### Hi there, I'm Kanchan 👋
 :woman: I work as a Data Scientist at Bentley Systems where I build tools to solve problems in the Mobility and Geospatial Analytics space.<br>
-:chart_with_upwards_trend: I am currently learning about Model Automation and Deployment techniques.<br>
+:chart_with_upwards_trend: I am currently reading the book 'Trustworthy Online Controlled Experiments'.<br>
 👯 Would love to collaborate on fun Data Science projects.<br>
 📫 How to reach me: kanchansatpute026@gmail.com
 <!--
