@@ -1,6 +1,5 @@
 ### Hi there, I'm Kanchan 👋
 :woman: I work as a Data Scientist at Zendesk.<br>
-:book: I am currently reading the book 'Trustworthy Online Controlled Experiments'.<br>
 👯 Would love to collaborate on fun Data Science projects.<br>
 📫 How to reach me: kanchansatpute026@gmail.com
 <!--
