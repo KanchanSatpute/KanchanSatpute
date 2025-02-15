@@ -1,7 +1,7 @@
 ### Hi there, I'm Kanchan 👋
 :woman: I work as a Data Scientist at Zendesk.<br>
 👯 Would love to collaborate on fun Data Science projects.<br>
-📫 How to reach me: kanchansatpute026@gmail.com
+📫 How to reach me: kanchansatpute026@gmail.com <br>
 Linkedin: https://www.linkedin.com/in/kanchan-satpute-2609/
 <!--
 **KanchanSatpute/KanchanSatpute** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
